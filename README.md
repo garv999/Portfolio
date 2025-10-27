@@ -1,6 +1,7 @@
 # Portfolio
 
 Open
+- Live site: https://garv999.github.io/Portfolio/
 - Open locally: http://localhost:5173/
 - Open on LAN (same network): http://10.12.50.71:5173/
 - Repository: https://github.com/garv999/Portfolio
