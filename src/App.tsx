@@ -39,9 +39,11 @@ function App() {
             </p>
             <div className="flex flex-wrap gap-4 justify-center">
               <a
-                href="https://drive.google.com/file/d/15VMAs4WHfytharFsGjZ8Gg-y1Rj3lsud/view?usp=sharing"
+                href="https://drive.google.com/uc?export=download&id=15VMAs4WHfytharFsGjZ8Gg-y1Rj3lsud"
                 target="_blank"
                 rel="noopener noreferrer"
+                download="Garv_Agarwal_Resume.pdf"
+
                 className="group px-8 py-4 bg-gray-900 text-white rounded-full hover:bg-gray-800 transition-all duration-300 font-medium shadow-xl hover:shadow-2xl hover:scale-105 flex items-center gap-3"
               >
                 <Download size={20} />
