@@ -41,7 +41,8 @@ function App() {
               <a
                 href="https://drive.google.com/uc?export=download&id=15VMAs4WHfytharFsGjZ8Gg-y1Rj3lsud"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener norefe
+                rrer"
                 download="Garv_Agarwal_Resume.pdf"
 
                 className="group px-8 py-4 bg-gray-900 text-white rounded-full hover:bg-gray-800 transition-all duration-300 font-medium shadow-xl hover:shadow-2xl hover:scale-105 flex items-center gap-3"
@@ -95,6 +96,12 @@ function App() {
                     <p className="text-gray-600">
                       Developed automated data pipeline using n8n, PDF.co, and GPT-4, improving processing efficiency by{' '}
                       <span className="font-bold text-blue-600">80%</span>
+                    </p>
+                  </div>
+                  <div className="bg-white rounded-xl p-5 shadow-sm">
+                    <p className="font-semibold text-gray-900 mb-2">Springworks</p>
+                    <p className="text-gray-600">
+                      Supported data analysis and reporting to drive product and HR insights while assisting in data preprocessing.
                     </p>
                   </div>
                   <div className="bg-white rounded-xl p-5 shadow-sm">
@@ -203,6 +210,16 @@ function App() {
           </div>
 
           <div className="space-y-6 max-w-5xl mx-auto">
+            <ExperienceCard
+              company="Springworks"
+              role="Operational Intern"
+              period="Nov 2025"
+              achievements={[
+                'Supported data analysis and reporting to drive product and HR insights',
+                'Assisted in data preprocessing and visualization for better decision-making'
+              ]}
+              color="indigo"
+            />
             <ExperienceCard
               company="Biosarthi"
               role="Data & Automation Intern"
