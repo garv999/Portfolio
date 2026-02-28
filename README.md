@@ -1,4 +1,13 @@
-# Portfolio
+# About Me
+
+Final-year B.Tech Computer Science (Data Science) student passionate about building intelligent systems that solve real-world problems.
+I specialize in:
+
+📊 Data Analytics & Visualization
+🤖 AI & Automation Systems
+🔐 Applied Cryptography
+🛠 Full-Stack Development
+This portfolio showcases my projects, professional experience, certifications, and technical skills across AI systems, data analytics and automation.
 
 Open
 - Live site: https://garv999.github.io/Portfolio/
