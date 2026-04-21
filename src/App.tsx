@@ -39,7 +39,7 @@ function App() {
             </p>
             <div className="flex flex-wrap gap-4 justify-center">
               <a
-                href="https://drive.google.com/uc?export=download&id=15VMAs4WHfytharFsGjZ8Gg-y1Rj3lsud"
+                href="https://drive.google.com/uc?export=download&id=1zgPLy5_f4LvB29OFoZGlQazRRH082qDy"
                 target="_blank"
                 rel="noopener norefe
                 rrer"
